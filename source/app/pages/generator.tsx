@@ -9,7 +9,7 @@ import { IEnemyData, EnemyGenusSpeciesLink, EnemyGenus, IAttackType, IResistance
 import { Grid } from "../components/grid";
 import { BackLink } from "../components/back-link";
 import { routes } from "../routes";
-import styled, { UlNull, ButtonTiny, DialogWidthSmall } from "../styles";
+import styled, { ButtonTiny, DialogWidthSmall } from "../styles";
 import { IGeneratorLevelProps, LevelEditor } from "../components/generator/level-editor";
 import { EnemyEditor } from "../components/generator/enemy-editor";
 import { Enemy } from "../components/enemy";
